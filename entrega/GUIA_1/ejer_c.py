@@ -1,0 +1,1 @@
+print("\"Guia 1, ejercicio c.\"")
